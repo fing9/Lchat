@@ -1,1 +1,1 @@
-# Lchat
+# Lchat (Large Chat)
